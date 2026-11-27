@@ -1,3 +1,3 @@
 <?php
-// Учебные UI-дефекты, версия МДК 05.02.
-const TRAINING_DEFECTS = true;
+// Исправленная версия МДК 05.03. Для повторения дефектов используйте тег module-2.
+const TRAINING_DEFECTS = false;
